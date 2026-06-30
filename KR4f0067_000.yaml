@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4f0067/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4f0067_SBCK_000-1a}
+metadata:
+  title: 茗柯文補編外編
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-11 18:03:09.304803'
+  source:
+    repository: kanripo
+    path: KR4f0067/KR4f0067_000.txt
+hash: sha256:7446159e2c4bb703c9103dca56a84e31b87f1ac1f660e5feb4f56d4c89354438
